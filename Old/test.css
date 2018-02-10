@@ -1,0 +1,11 @@
+.pictureclass
+{
+	height: 200px;
+	width: 100%;
+	text-align:center;
+	background-image: url("1.jpg")
+}
+.textclass
+{
+	line-height: 22px;
+}
